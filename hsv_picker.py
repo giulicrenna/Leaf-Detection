@@ -26,7 +26,7 @@ hMin = sMin = vMin = hMax = sMax = vMax = 0
 phMin = psMin = pvMin = phMax = psMax = pvMax = 0
 scale_percent = 50
 
-img = cv2.imread('leaf_masking/GRUPO_6/leaf_group_6_1.png')
+img = cv2.imread('./leaf_masking/GRUPO_7/leaf_group_7_8.png')
 width : int = int(img.shape[1] * scale_percent / 100)
 height : int = int(img.shape[0] * scale_percent / 100)
 dim : tuple = (width, height)

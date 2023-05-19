@@ -2,6 +2,10 @@
 env
 *.pyc
 ./leaf_masking
+./leaf_keras_dataset
+./modelo
+leaf_keras_dataset
+modelo
 leaf_masking
 tempCodeRunnerFile.py
 *.bmp
